@@ -2,7 +2,7 @@
 
 read -p " Enter your name: " name
 
-echo " hello $name bhai"
+echo " hello $name Bhai"
 
 read -p " Enter your age :" age
 
